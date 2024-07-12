@@ -1,3 +1,53 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+ .accordion {
+     margin: 1em 0;
+ }
+
+.accordion-item {
+    margin: 0.5em 0;
+}
+
+.accordion-item input[type="checkbox"] {
+    display: none;
+}
+
+.accordion-item label {
+    display: block;
+    padding: 0.5em;
+    background-color: #f1f1f1;
+    cursor: pointer;
+    border: 1px solid #ccc;
+}
+
+.accordion-item .content {
+    display: none;
+    padding-left: 1em;
+    border-left: 2px solid #ccc;
+}
+
+.accordion-item input[type="checkbox"]:checked ~ .content {
+    display: block;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.color-red {
+    color: red;
+}
+
+.color-blue {
+    color: blue;
+}
+
+.color-green {
+    color: green;
+}

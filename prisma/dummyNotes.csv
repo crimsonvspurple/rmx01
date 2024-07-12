@@ -1,0 +1,224 @@
+id,title,body,createdAt,updatedAt,userId
+clyiphjy90002hxi2exo2cegb,Pokémon,"<div class=""accordion"">
+        <div class=""accordion-item"">
+            <input type=""checkbox"" id=""level1-c"" />
+            <label for=""level1-c"">Pikachu</label>
+            <div class=""content"">
+                Pikachu, an Electric-type Pokémon, is known for its ability to generate powerful electricity. It's the mascot of the Pokémon franchise.
+                <div class=""accordion-item"">
+                    <input type=""checkbox"" id=""level2-c"" />
+                    <label for=""level2-c"">Raichu</label>
+                    <div class=""content"">
+                        Raichu evolves from Pikachu when exposed to a Thunder Stone. It has a greater electrical capacity.
+                        <div class=""accordion-item"">
+                            <input type=""checkbox"" id=""level3-c"" />
+                            <label for=""level3-c"">Alolan Raichu</label>
+                            <div class=""content"">
+                                Alolan Raichu has a dual Electric/Psychic-type and surfs on its tail, using psychic powers.
+                                <div class=""accordion-item"">
+                                    <input type=""checkbox"" id=""level4-c"" />
+                                    <label for=""level4-c"">Pichu</label>
+                                    <div class=""content"">
+                                        Pichu, the pre-evolution of Pikachu, can be quite playful and is often seen practicing its electric skills.
+                                        <div class=""accordion-item"">
+                                            <input type=""checkbox"" id=""level5-c"" />
+                                            <label for=""level5-c"">Togepi</label>
+                                            <div class=""content"">
+                                                Togepi is known for its positive energy and bringing happiness. It evolves into Togetic.
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class=""accordion-item"">
+                                    <input type=""checkbox"" id=""level4-2-c"" />
+                                    <label for=""level4-2-c"">Togetic</label>
+                                    <div class=""content"">
+                                        Togetic evolves from Togepi when it is exposed to great happiness and evolves into Togekiss.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class=""accordion-item"">
+                            <input type=""checkbox"" id=""level3-2-c"" />
+                            <label for=""level3-2-c"">Plusle</label>
+                            <div class=""content"">
+                                Plusle, a cheerleading Pokémon, works well in pairs and supports its partners in battle.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class=""accordion-item"">
+                    <input type=""checkbox"" id=""level2-2-c"" />
+                    <label for=""level2-2-c"">Minun</label>
+                    <div class=""content"">
+                        Minun, often seen with Plusle, specializes in providing support and boosting its allies' morale.
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class=""accordion-item"">
+            <input type=""checkbox"" id=""level1-2-c"" />
+            <label for=""level1-2-c"">Charizard</label>
+            <div class=""content"">
+                Charizard is a Fire/Flying-type Pokémon known for its powerful fire attacks and flying capabilities.
+            </div>
+        </div>
+    </div>",1720789246017,1720789246017,clyhcx2rz0000odte4ma1m8yp
+clyipjh3h0000nosyy4mmg126,Starwars,"<div class=""accordion"">
+        <div class=""accordion-item"">
+            <input type=""checkbox"" id=""level1-sw"" />
+            <label for=""level1-sw"">Luke Skywalker</label>
+            <div class=""content"">
+                <span class=""bold italic color-blue"">Luke Skywalker</span>, a legendary Jedi, played a key role in the Galactic Civil War.
+                <div class=""accordion-item"">
+                    <input type=""checkbox"" id=""level2-sw"" />
+                    <label for=""level2-sw"">Darth Vader</label>
+                    <div class=""content"">
+                        <span class=""bold italic color-red"">Darth Vader</span>, formerly Anakin Skywalker, was a powerful Sith Lord.
+                        <div class=""accordion-item"">
+                            <input type=""checkbox"" id=""level3-sw"" />
+                            <label for=""level3-sw"">Emperor Palpatine</label>
+                            <div class=""content"">
+                                <span class=""bold italic color-green"">Emperor Palpatine</span> masterminded the rise of the Galactic Empire and was the Sith Master of Darth Vader.
+                                <div class=""accordion-item"">
+                                    <input type=""checkbox"" id=""level4-sw"" />
+                                    <label for=""level4-sw"">Yoda</label>
+                                    <div class=""content"">
+                                        <span class=""bold italic color-blue"">Yoda</span>, one of the most powerful Jedi Masters, trained generations of Jedi, including Luke Skywalker.
+                                        <div class=""accordion-item"">
+                                            <input type=""checkbox"" id=""level5-sw"" />
+                                            <label for=""level5-sw"">Obi-Wan Kenobi</label>
+                                            <div class=""content"">
+                                                <span class=""bold italic color-green"">Obi-Wan Kenobi</span>, a wise and skilled Jedi, mentored both Anakin and Luke Skywalker.
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class=""accordion-item"">
+                                    <input type=""checkbox"" id=""level4-2-sw"" />
+                                    <label for=""level4-2-sw"">Mace Windu</label>
+                                    <div class=""content"">
+                                        <span class=""bold italic color-purple"">Mace Windu</span> was a senior member of the Jedi Council, known for his skill in combat and his purple lightsaber.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class=""accordion-item"">
+                            <input type=""checkbox"" id=""level3-2-sw"" />
+                            <label for=""level3-2-sw"">Princess Leia</label>
+                            <div class=""content"">
+                                <span class=""bold italic color-blue"">Princess Leia</span>, a leader of the Rebel Alliance, was strong in the Force and the twin sister of Luke Skywalker.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class=""accordion-item"">
+                    <input type=""checkbox"" id=""level2-2-sw"" />
+                    <label for=""level2-2-sw"">Han Solo</label>
+                    <div class=""content"">
+                        <span class=""bold italic color-brown"">Han Solo</span>, a daring smuggler and hero of the Rebel Alliance, piloted the Millennium Falcon.
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class=""accordion-item"">
+            <input type=""checkbox"" id=""level1-2-sw"" />
+            <label for=""level1-2-sw"">Chewbacca</label>
+            <div class=""content"">
+                <span class=""bold italic color-brown"">Chewbacca</span>, a loyal Wookiee and co-pilot of the Millennium Falcon, was a key ally to the Rebel Alliance.
+            </div>
+        </div>
+    </div>",1720789335630,1720789335630,clyhcx2rz0000odte4ma1m8yp
+clyipoemz0001nosyi56selz3,Programing,"<div class=""accordion"">
+        <div class=""accordion-item"">
+            <input type=""checkbox"" id=""level1-pl"" />
+            <label for=""level1-pl"">C</label>
+            <div class=""content"">
+                <span class=""bold italic color-blue"">C</span> is a powerful general-purpose programming language developed in the 1970s.
+                <div class=""accordion-item"">
+                    <input type=""checkbox"" id=""level2-pl"" />
+                    <label for=""level2-pl"">C++</label>
+                    <div class=""content"">
+                        <span class=""bold italic color-green"">C++</span> is an extension of C that includes object-oriented features.
+                        <div class=""accordion-item"">
+                            <input type=""checkbox"" id=""level3-pl"" />
+                            <label for=""level3-pl"">C#</label>
+                            <div class=""content"">
+                                <span class=""bold italic color-red"">C#</span> is a language developed by Microsoft that is similar to Java and heavily used in .NET.
+                                <div class=""accordion-item"">
+                                    <input type=""checkbox"" id=""level4-pl"" />
+                                    <label for=""level4-pl"">Java</label>
+                                    <div class=""content"">
+                                        <span class=""bold italic color-blue"">Java</span> is a widely-used object-oriented language known for its portability across platforms.
+                                        <div class=""accordion-item"">
+                                            <input type=""checkbox"" id=""level5-pl"" />
+                                            <label for=""level5-pl"">Scala</label>
+                                            <div class=""content"">
+                                                <span class=""bold italic color-green"">Scala</span> is a high-level language that combines object-oriented and functional programming.
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class=""accordion-item"">
+                                    <input type=""checkbox"" id=""level4-2-pl"" />
+                                    <label for=""level4-2-pl"">Groovy</label>
+                                    <div class=""content"">
+                                        <span class=""bold italic color-purple"">Groovy</span> is an agile and dynamic language for the Java platform.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class=""accordion-item"">
+                            <input type=""checkbox"" id=""level3-2-pl"" />
+                            <label for=""level3-2-pl"">Objective-C</label>
+                            <div class=""content"">
+                                <span class=""bold italic color-blue"">Objective-C</span> is the main programming language used by Apple for macOS and iOS development before Swift.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class=""accordion-item"">
+                    <input type=""checkbox"" id=""level2-2-pl"" />
+                    <label for=""level2-2-pl"">JavaScript</label>
+                    <div class=""content"">
+                        <span class=""bold italic color-brown"">JavaScript</span> is a high-level, often just-in-time compiled language that conforms to the ECMAScript specification.
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class=""accordion-item"">
+            <input type=""checkbox"" id=""level1-2-pl"" />
+            <label for=""level1-2-pl"">Python</label>
+            <div class=""content"">
+                <span class=""bold italic color-green"">Python</span> is a high-level, interpreted language known for its readability and wide range of applications.
+                <div class=""accordion-item"">
+                    <input type=""checkbox"" id=""level2-3-pl"" />
+                    <label for=""level2-3-pl"">Ruby</label>
+                    <div class=""content"">
+                        <span class=""bold italic color-red"">Ruby</span> is a dynamic, open source programming language with a focus on simplicity and productivity.
+                        <div class=""accordion-item"">
+                            <input type=""checkbox"" id=""level3-3-pl"" />
+                            <label for=""level3-3-pl"">Perl</label>
+                            <div class=""content"">
+                                <span class=""bold italic color-blue"">Perl</span> is a high-level, general-purpose, interpreted, dynamic programming language.
+                            </div>
+                        </div>
+                        <div class=""accordion-item"">
+                            <input type=""checkbox"" id=""level3-4-pl"" />
+                            <label for=""level3-4-pl"">R</label>
+                            <div class=""content"">
+                                <span class=""bold italic color-green"">R</span> is a language and environment for statistical computing and graphics.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class=""accordion-item"">
+                    <input type=""checkbox"" id=""level2-4-pl"" />
+                    <label for=""level2-4-pl"">PHP</label>
+                    <div class=""content"">
+                        <span class=""bold italic color-purple"">PHP</span> is a popular general-purpose scripting language that is especially suited to web development.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>",1720789565723,1720789565723,clyhcx2rz0000odte4ma1m8yp
