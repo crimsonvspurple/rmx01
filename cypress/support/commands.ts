@@ -96,3 +96,20 @@ export const registerCommands = () => {
   Cypress.Commands.add("cleanupUser", cleanupUser);
   Cypress.Commands.add("visitAndCheck", visitAndCheck);
 };
+
+export const goldensPath = "cypress/goldens/";
+
+export function loginAsAdmin() {
+  const loginData = {
+    email: `admin@example.com`,
+    password: `admin`  // must be same as in prisma/seed.ts
+  };
+
+  cy.visitAndCheck("/");
+  cy.findByRole("link", { name: /log in/i }).click();
+  cy.findByRole("textbox", { name: /email address/i }).type(loginData.email);
+  cy.get("#password").type(loginData.password);
+  // try to log in
+  cy.findByRole("button", { name: /log in/i }).click();
+
+}
